@@ -1,3 +1,5 @@
+## Contacts+
+
 This is the info page for my app called Contacts + for Neos VR.
 
 
@@ -9,7 +11,7 @@ Current freatures is seeing is who is online in what world they are in if public
 Any questions feel free to message @1amnick #0621 on discord or email me at testflight(at)1amnick.net
 
 
-##Privacy Policy
+## Privacy Policy
 
 As the app creator I do not collect any data other then optional crashlogs.
 
